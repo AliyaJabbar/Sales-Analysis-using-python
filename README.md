@@ -1,6 +1,3 @@
-Here’s a complete **README content** for your **Sales Analysis Project** covering all the sections you asked for. You can copy and paste this into your GitHub README file.
-
----
 
 # 📊 Sales Analysis using Python
 
