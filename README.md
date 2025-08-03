@@ -98,8 +98,4 @@ To provide stakeholders with a comprehensive understanding of sales performance 
 * Are there patterns across regions?
 * What is the average revenue per order?
 
----
 
-
-
-Let me know if you'd like help **designing a GitHub banner**, **adding badge icons**, or **creating a table of contents** too.
